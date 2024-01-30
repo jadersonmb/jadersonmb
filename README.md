@@ -72,3 +72,5 @@
 <p>In summary, Jaderson Morais epitomizes the modern professional who not only embraces the challenges of technology but also confronts them with unwavering determination and a positive attitude. His relentless pursuit of innovation and his ability to inspire and collaborate with others highlight him as a driving force at the forefront of system development.</p>
 
 ---
+
+![Snake animation](https://github.com/jadersonmb/jadersonmb/blob/output/github-contribution-grid-snake.svg)
