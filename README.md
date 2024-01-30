@@ -73,4 +73,3 @@
 
 ---
 
-![Snake animation](https://github.com/jadersonmb/jadersonmb/blob/output/github-contribution-grid-snake.svg)
